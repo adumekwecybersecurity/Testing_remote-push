@@ -2,3 +2,5 @@
 
 This is my first push to github, I hope this works as I am really happy to do this for the first time via terminal. 
 and not drag and dropping folder & its contents. 
+
+Added html file to it. 
